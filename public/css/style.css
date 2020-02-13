@@ -9923,4 +9923,33 @@ h3 {
   width: 150px;
 }
 
+#services {
+  margin-top: 70px;
+}
+
+#room {
+  background-image: url(../../public/img/services/service-1.jpg);
+  background-size: cover;
+  width: 100%;
+  border: white 8px solid;
+}
+
+#items {
+  background-image: url(../../public/img/services/service-2.jpg);
+  background-size: cover;
+  width: 100%;
+  border: white 8px solid;
+}
+
+#clothes {
+  background-image: url(../../public/img/services/slider-3.jpg);
+  background-size: cover;
+  width: 100%;
+  border: white 8px solid;
+}
+
+hr {
+  top: 40%;
+}
+
 /*# sourceMappingURL=style.css.map */
