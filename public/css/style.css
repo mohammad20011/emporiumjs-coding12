@@ -9902,4 +9902,25 @@ h3 {
   list-style: none;
 }
 
+#shop {
+  margin-left: 130px;
+  margin-right: 130px;
+}
+
+#shopAt {
+  padding-top: 30px;
+}
+
+#slider {
+  height: 500px;
+  width: auto;
+}
+
+#sale {
+  border-radius: 20px;
+  border-style: none;
+  height: 40px;
+  width: 150px;
+}
+
 /*# sourceMappingURL=style.css.map */
