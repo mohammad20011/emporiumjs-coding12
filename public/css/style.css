@@ -9952,4 +9952,21 @@ hr {
   top: 40%;
 }
 
+#discover {
+  background-image: url(../../public/img/cta-bg.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 650px;
+}
+
+#thousands {
+  bottom: 50%;
+  padding-top: 250px;
+}
+
+#learn {
+  height: 46px;
+  border-radius: 12%;
+}
+
 /*# sourceMappingURL=style.css.map */
