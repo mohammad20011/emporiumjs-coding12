@@ -1,4 +1,8 @@
 @charset "UTF-8";
+@font-face {
+  font-family: "poppins";
+  src: url("../../public/fonts/Poppins/Poppins-Regular.ttf");
+}
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -9875,6 +9879,10 @@ h3 {
     border-color: #dee2e6;
   }
 }
+body {
+  font-family: "poppins", sans-serif;
+}
+
 .navbar-nav.navbar-center {
   position: absolute;
   left: 50%;
@@ -9967,6 +9975,18 @@ hr {
 #learn {
   height: 46px;
   border-radius: 12%;
+}
+
+#trust1 {
+  border: white 8px solid;
+}
+
+#shipping {
+  border: white 8px solid;
+}
+
+#trust2 {
+  border: white 8px solid;
 }
 
 /*# sourceMappingURL=style.css.map */
